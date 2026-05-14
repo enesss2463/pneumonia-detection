@@ -1,0 +1,6 @@
+venv/
+chest_xray/
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
